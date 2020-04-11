@@ -30,4 +30,3 @@ hist(as.numeric(as.character(hhPower$Global_active_power)),
 
 # Close output PNG device
 dev.off()
-
